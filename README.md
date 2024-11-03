@@ -1,4 +1,6 @@
-# 真心本地包（Sync From Telegram）
+#docker run -it -p 9999:9999 --name zxsou86-1022  --log-opt max-size=100m --restart=always tgsou-1022-image:latest
+真心本地包（Sync From Telegram）
+
 
 ## 同步更新在线接口
 选择主页可以查看当前真心包版本  
