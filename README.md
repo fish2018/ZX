@@ -36,8 +36,8 @@ http://tgsou3.fish2018.ip-ddns.com
 
 
 ## 真心本地包下载地址
-真心包 [readme.txt](http://www.fish2018.us.kg/z/readme.txt)    
-tgsou [readme-tg.txt](http://www.fish2018.us.kg/z/readme-tg.txt)  
+真心包 [readme.txt](http://www.fish2018.ip-ddns.com/z/readme.txt)    
+tgsou [readme-tg.txt](http://www.fish2018.ip-ddns.com/z/readme-tg.txt)  
 
 ```bash
 https://slink.ltd/https://raw.githubusercontent.com/fish2018/ZX/main/真心20250414-增量包.zip
