@@ -28,7 +28,7 @@ http://tgsou3.fish2018.ip-ddns.com
 
 [centos7.6部署TG搜索服务](https://github.com/fish2018/lib/blob/main/教程/centos7.6部署TG搜索服务.md)  
 
-在线获取TG session：https://tg.uu8.pro/ (@DH 分享)  
+在线获取TG session：https://tgs.252035.xyz/  
 
 需要免费代理节点，可以使用另一个项目[ClashForge](https://github.com/fish2018/ClashForge)  
 
